@@ -1,0 +1,9 @@
+
+
+loop do
+	puts "write your name"
+	name = gets.chomp
+	return = "Hi #{name}"
+	end
+end
+	
